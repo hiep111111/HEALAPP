@@ -1,0 +1,10 @@
+/* layout.css */
+.layout-container {
+    background-color: #f0eeee;
+    height: 100vh;
+    /* Full height */
+    width: 100%;
+    /* Full width */
+    display: flex;
+    flex-direction: column;
+}
